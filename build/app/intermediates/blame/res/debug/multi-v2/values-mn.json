@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/david/AndroidStudioProjects/dynamic_link_lab/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-mn/values-mn.xml",
+            "outputFile": "/home/david/AndroidStudioProjects/dynamic_lab/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-mn/values-mn.xml",
             "map": [
                 {
                     "source": "/home/david/.gradle/caches/transforms-2/files-2.1/f92332fcf550dbb668e848d1d6594a59/jetified-play-services-basement-17.0.0/res/values-mn/values.xml",

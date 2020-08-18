@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/david/AndroidStudioProjects/dynamic_link_lab/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/home/david/AndroidStudioProjects/dynamic_lab/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
                     "source": "/home/david/.gradle/caches/transforms-2/files-2.1/f92332fcf550dbb668e848d1d6594a59/jetified-play-services-basement-17.0.0/res/values/values.xml",
@@ -40,7 +40,24 @@
                     }
                 },
                 {
-                    "source": "/home/david/AndroidStudioProjects/dynamic_link_lab/android/app/src/main/res/values/styles.xml",
+                    "source": "/home/david/AndroidStudioProjects/dynamic_lab/build/app/generated/res/google-services/debug/values/values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,199,316,398,502,611,731,837",
+                        "endColumns": "143,116,81,103,108,119,105,82",
+                        "endOffsets": "194,311,393,497,606,726,832,915"
+                    },
+                    "to": {
+                        "startLines": "104,105,106,107,108,109,110,111",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "7730,7874,7991,8073,8177,8286,8406,8512",
+                        "endColumns": "143,116,81,103,108,119,105,82",
+                        "endOffsets": "7869,7986,8068,8172,8281,8401,8507,8590"
+                    }
+                },
+                {
+                    "source": "/home/david/AndroidStudioProjects/dynamic_lab/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
@@ -56,23 +73,6 @@
                         "endLines": "117,120",
                         "endColumns": "12,12",
                         "endOffsets": "8958,9123"
-                    }
-                },
-                {
-                    "source": "/home/david/AndroidStudioProjects/dynamic_link_lab/build/app/generated/res/google-services/debug/values/values.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,199,316,398,502,611,731,837",
-                        "endColumns": "143,116,81,103,108,119,105,82",
-                        "endOffsets": "194,311,393,497,606,726,832,915"
-                    },
-                    "to": {
-                        "startLines": "104,105,106,107,108,109,110,111",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "7730,7874,7991,8073,8177,8286,8406,8512",
-                        "endColumns": "143,116,81,103,108,119,105,82",
-                        "endOffsets": "7869,7986,8068,8172,8281,8401,8507,8590"
                     }
                 },
                 {

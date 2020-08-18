@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/david/AndroidStudioProjects/dynamic_link_lab/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-ar/values-ar.xml",
+            "outputFile": "/home/david/AndroidStudioProjects/dynamic_lab/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-ar/values-ar.xml",
             "map": [
                 {
                     "source": "/home/david/.gradle/caches/transforms-2/files-2.1/5b158abc2263076f387a9dedc11ef3a4/play-services-base-17.0.0/res/values-ar/values.xml",
