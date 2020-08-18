@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "478818798814",
+    "firebase_url": "https://novalabs-dynamic-links.firebaseio.com",
+    "project_id": "novalabs-dynamic-links",
+    "storage_bucket": "novalabs-dynamic-links.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478818798814:android:f30968b6e02f67c192864f",
+        "android_client_info": {
+          "package_name": "com.labs.dynamic_link_lab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478818798814-15slb9ri5iifcmjlt40sj790ncdmk172.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFliPW8jTyBiq-uggdtoofTm6XXgBVRFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478818798814-15slb9ri5iifcmjlt40sj790ncdmk172.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
